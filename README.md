@@ -1,2 +1,2 @@
 # Akshit247
-hello 
+hello evry one this my first repo file The Author - Akshit 
